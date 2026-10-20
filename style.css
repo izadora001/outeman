@@ -20,8 +20,8 @@ img{
 }
 
 .meta:hover{
-    transition: .1s;
-    transform: scale(3);
+    transition: .3s;
+    transform: scale(2);
 }
 
 h2{
